@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reveil moi !</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- String pour le detail de l'alarme -->
+    <string name="details_alarm_name">Nom de l\'alarme</string>
+	<string name="details_repeat_weekly">Repeter chaque semaine</string>
+	<string name="details_sunday">Dimanche </string>
+	<string name="details_monday">Lundi</string>
+	<string name="details_tuesday">Mardi</string>
+	<string name="details_wednesday">Mercredi</string>
+	<string name="details_thursday">Jeudi</string>
+	<string name="details_friday">Vendredi</string>
+	<string name="details_saturday">Samedi</string>
+	<string name="details_alarm_tone">Sonnerie de l\'alarme</string>
+	<string name="details_alarm_tone_default">Choisir une sonnerie</string>
+
+	<!-- Informations pour l'utilisateur sur la geolocalisation -->
+    <string name="provider_new_status">The provider %1$s has now a new status %2$s</string>
+    <string name="provider_disabled">The provider %s is now disabled</string>
+    <string name="provider_enabled">The provider %s is now enabled</string>
+
+    <!-- Informations pour la meteo -->
+    <string name="lbl_main_city">Ville</string>
+    <string name="lbl_main_temperature">Temperature</string>
+    <string name="lbl_main_wind">Vitesse du vent</string>
+    <string name="lbl_main_humidity">Humidite</string>
+    <string name="main_NA">N/A</string>
+
+</resources>
